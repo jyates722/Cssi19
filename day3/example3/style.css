@@ -1,0 +1,25 @@
+ul 
+{
+    list-style-type: none;
+}
+
+a
+{
+    color: blue;
+    border-width: 6px;
+    border-color: red;
+    border-style: dashed;
+    padding: 5px;
+}
+
+a:hover, a:visited
+{
+    text-decoration: none;
+}
+
+
+li{  
+
+margin: 20px;
+width: 20em;
+} 
